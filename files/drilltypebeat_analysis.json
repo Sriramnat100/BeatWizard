@@ -1,0 +1,56 @@
+{
+  "audio_features": {
+    "tempo": 73.828125,
+    "rhythm_density": 3.6589434435087194,
+    "beat_consistency": 88.11803155130802,
+    "syncopation_score": 0.31545761227607727,
+    "groove_strength": 0.032593918923435015,
+    "average_beat_strength": 1.5817188024520874,
+    "energy_mean": 0.274233877658844,
+    "energy_std": 0.261027067899704,
+    "sub_bass_energy": 55.08613967895508,
+    "bass_energy": 22.468307495117188,
+    "bass_to_total_ratio": 97.16523742675781,
+    "spectral_centroid_mean": 1676.1314160043698,
+    "spectral_rolloff_mean": 3316.334710611494,
+    "spectral_bandwidth_mean": 1765.964001159329,
+    "spectral_contrast": 23.892831656062235,
+    "percussive_energy": 0.08148768544197083,
+    "harmonic_energy": 0.16091851890087128,
+    "percussion_to_harmonic_ratio": 0.5063909888267517,
+    "mfcc_means": [
+      -153.01068115234375,
+      116.87728118896484,
+      -0.923577070236206,
+      17.1759090423584,
+      7.2013678550720215,
+      5.359569549560547,
+      3.3222854137420654,
+      0.8528945446014404,
+      -0.4630690813064575,
+      6.693169116973877,
+      -0.7553483247756958,
+      0.30762267112731934,
+      -0.37343767285346985
+    ],
+    "kick_energy": 47.637359619140625,
+    "snare_energy": 10.120915412902832,
+    "hihat_energy": 0.14188450574874878,
+    "rhythmic_regularity": 4.990951655171718,
+    "section_changes": 0.24947839046199702,
+    "stereo_width": 0.0,
+    "kick_to_snare_ratio": 4.706822749608849,
+    "hihat_to_kick_ratio": 0.002978429197266227
+  },
+  "text_analysis": {
+    "sentiment": 0.2,
+    "descriptors": [
+      "drill",
+      "beat",
+      "that",
+      "really",
+      "hype"
+    ],
+    "raw_text": "A drill beat that's really hype"
+  }
+}
