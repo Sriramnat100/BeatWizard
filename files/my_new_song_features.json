@@ -1,0 +1,50 @@
+{
+  "audio_features": {
+    "tempo": 151.99908088235293,
+    "rhythm_density": 4.619023904382471,
+    "beat_consistency": 100.72633592938818,
+    "syncopation_score": 0.317290335893631,
+    "groove_strength": 0.04184930596455392,
+    "average_beat_strength": 1.424160122871399,
+    "energy_mean": 0.21165847778320312,
+    "energy_std": 0.09171812981367111,
+    "sub_bass_energy": 25.19333839416504,
+    "bass_energy": 20.85100555419922,
+    "bass_to_total_ratio": 121.63951873779297,
+    "spectral_centroid_mean": 2275.33414718386,
+    "spectral_rolloff_mean": 5073.244443639334,
+    "spectral_bandwidth_mean": 2476.3608948551696,
+    "spectral_contrast": 22.10654450891662,
+    "percussive_energy": 0.05067596584558487,
+    "harmonic_energy": 0.1368263214826584,
+    "percussion_to_harmonic_ratio": 0.3703670799732208,
+    "mfcc_means": [
+      -71.61001586914062,
+      99.15556335449219,
+      0.7797655463218689,
+      19.717430114746094,
+      11.077437400817871,
+      12.143954277038574,
+      6.106257915496826,
+      7.592065811157227,
+      1.9442020654678345,
+      5.136373519897461,
+      1.3017730712890625,
+      5.375473499298096,
+      0.001324184937402606
+    ],
+    "kick_energy": 38.66899108886719,
+    "snare_energy": 11.14014720916748,
+    "hihat_energy": 0.3439149558544159,
+    "rhythmic_regularity": 15.51643299709744,
+    "section_changes": 0.2475548060708263,
+    "stereo_width": 0.0,
+    "kick_to_snare_ratio": 3.4711379384562946,
+    "hihat_to_kick_ratio": 0.008893817430359895
+  },
+  "text_analysis": {
+    "sentiment": 0.0,
+    "descriptors": [],
+    "raw_text": "NA"
+  }
+}
