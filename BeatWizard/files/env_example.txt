@@ -1,0 +1,18 @@
+# YouTube Data API v3 Key
+# Get from: https://console.developers.google.com/
+YOUTUBE_API_KEY=your_youtube_api_key_here
+
+# Spotify Web API Credentials
+# Get from: https://developer.spotify.com/dashboard/
+SPOTIFY_CLIENT_ID=your_spotify_client_id_here
+SPOTIFY_CLIENT_SECRET=your_spotify_client_secret_here
+
+# Note: SoundCloud, Apple Music, and TikTok require special API access
+# SoundCloud: API is very limited for public use
+# Apple Music: Requires Apple Developer Program membership
+# TikTok: Requires business API approval
+
+# Instructions:
+# 1. Copy this file to .env
+# 2. Fill in your actual API keys
+# 3. The script will automatically load these environment variables 

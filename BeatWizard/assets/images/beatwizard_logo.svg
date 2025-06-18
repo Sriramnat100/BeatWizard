@@ -1,0 +1,51 @@
+<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Wizard Hat -->
+  <path d="M60 15 L85 55 L35 55 Z" fill="#8B4D8E" stroke="#4A2C4A" stroke-width="2"/>
+  <path d="M60 15 L80 50 L40 50 Z" fill="#A855A7"/>
+  
+  <!-- Hat Stars -->
+  <polygon points="50,35 52,40 57,40 53,43 54,48 50,45 46,48 47,43 43,40 48,40" fill="#F59E0B"/>
+  <polygon points="65,25 66,28 69,28 67,30 68,33 65,31 62,33 63,30 61,28 64,28" fill="#F59E0B"/>
+  
+  <!-- Hat Brim -->
+  <ellipse cx="60" cy="55" rx="27" ry="4" fill="#4A2C4A"/>
+  
+  <!-- Face -->
+  <circle cx="60" cy="70" r="18" fill="#D97706" stroke="#92400E" stroke-width="1"/>
+  
+  <!-- Eyes -->
+  <path d="M52 65 Q54 63 56 65" stroke="#000" stroke-width="2" fill="none"/>
+  <path d="M64 65 Q66 63 68 65" stroke="#000" stroke-width="2" fill="none"/>
+  
+  <!-- Beard -->
+  <path d="M45 75 Q50 85 60 88 Q70 85 75 75 Q75 85 60 95 Q45 85 45 75" fill="#F3F4F6" stroke="#D1D5DB" stroke-width="1"/>
+  
+  <!-- Turntable Base -->
+  <rect x="25" y="95" width="70" height="20" rx="5" fill="#374151" stroke="#1F2937" stroke-width="2"/>
+  
+  <!-- Left Turntable -->
+  <circle cx="42" cy="102" r="12" fill="#000"/>
+  <circle cx="42" cy="102" r="8" fill="#1F2937"/>
+  <circle cx="42" cy="102" r="2" fill="#F59E0B"/>
+  
+  <!-- Right Turntable -->
+  <circle cx="78" cy="102" r="12" fill="#000"/>
+  <circle cx="78" cy="102" r="8" fill="#1F2937"/>
+  <circle cx="78" cy="102" r="2" fill="#F59E0B"/>
+  
+  <!-- Mixer Section -->
+  <rect x="50" y="98" width="20" height="8" rx="2" fill="#4B5563"/>
+  <circle cx="55" cy="102" r="1.5" fill="#10B981"/>
+  <circle cx="60" cy="102" r="1.5" fill="#EF4444"/>
+  <circle cx="65" cy="102" r="1.5" fill="#3B82F6"/>
+  
+  <!-- Arms/Hands -->
+  <circle cx="35" cy="85" r="6" fill="#D97706"/>
+  <circle cx="85" cy="85" r="6" fill="#D97706"/>
+  
+  <!-- Magic Sparkles -->
+  <circle cx="25" cy="40" r="1" fill="#F59E0B" opacity="0.8"/>
+  <circle cx="95" cy="35" r="1" fill="#F59E0B" opacity="0.8"/>
+  <circle cx="20" cy="60" r="1" fill="#8B5CF6" opacity="0.8"/>
+  <circle cx="100" cy="70" r="1" fill="#8B5CF6" opacity="0.8"/>
+</svg> 

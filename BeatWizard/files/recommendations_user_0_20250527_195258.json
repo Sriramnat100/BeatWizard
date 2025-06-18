@@ -1,0 +1,325 @@
+{
+  "user_id": "user_0",
+  "timestamp": "2025-05-27T19:52:58.237318",
+  "collaborative_filtering": [
+    [
+      "beat_83",
+      0.12882989611447454
+    ],
+    [
+      "beat_25",
+      0.12162920748589146
+    ],
+    [
+      "beat_96",
+      0.09937131784127827
+    ],
+    [
+      "beat_35",
+      0.0898699436757853
+    ],
+    [
+      "beat_44",
+      0.08168187821739432
+    ],
+    [
+      "beat_37",
+      0.07770128986349438
+    ],
+    [
+      "beat_72",
+      0.07378409948592192
+    ],
+    [
+      "beat_19",
+      0.06739485386619282
+    ],
+    [
+      "beat_2",
+      0.06046559313665909
+    ],
+    [
+      "beat_53",
+      0.057442754872317155
+    ]
+  ],
+  "content_based": [
+    [
+      "beat_21",
+      0.7032622905197173
+    ],
+    [
+      "beat_85",
+      0.6475100722106074
+    ],
+    [
+      "beat_13",
+      0.5570854937387767
+    ],
+    [
+      "beat_2",
+      0.5419309404154562
+    ],
+    [
+      "beat_88",
+      0.5416265714881234
+    ],
+    [
+      "beat_26",
+      0.5190380989992692
+    ],
+    [
+      "beat_29",
+      0.5134918782148363
+    ],
+    [
+      "beat_72",
+      0.5102568978723346
+    ],
+    [
+      "beat_1",
+      0.44318616911383346
+    ],
+    [
+      "beat_63",
+      0.4379395585766167
+    ]
+  ],
+  "hybrid": [
+    [
+      "beat_96",
+      0.5045090885779087
+    ],
+    [
+      "beat_72",
+      0.4962690775828198
+    ],
+    [
+      "beat_2",
+      0.45447210892358314
+    ],
+    [
+      "beat_13",
+      0.32872016980822766
+    ],
+    [
+      "beat_21",
+      0.282629955741808
+    ],
+    [
+      "beat_83",
+      0.2813930690790608
+    ],
+    [
+      "beat_74",
+      0.24139935191905093
+    ],
+    [
+      "beat_25",
+      0.2412971093991264
+    ],
+    [
+      "beat_53",
+      0.2320536514790236
+    ],
+    [
+      "beat_85",
+      0.22566126705876194
+    ]
+  ],
+  "insights": {
+    "user_insights": {
+      "total_interactions": 18,
+      "favorite_genres": {
+        "R&B": 6,
+        "Classical": 3,
+        "Electronic": 3
+      },
+      "diversity_score": 0.3888888888888889,
+      "listening_pattern": {
+        "19": 18
+      },
+      "user_type": "casual_listener"
+    },
+    "content_insights": {
+      "top_genres": {
+        "unique_listeners": {
+          "Rock": 9.5,
+          "Electronic": 9.090909090909092,
+          "Hip-Hop": 9.294117647058824,
+          "Pop": 8.75,
+          "R&B": 8.95
+        },
+        "total_interactions": {
+          "Rock": 11.0,
+          "Electronic": 10.818181818181818,
+          "Hip-Hop": 10.117647058823529,
+          "Pop": 10.0,
+          "R&B": 9.55
+        }
+      },
+      "top_beats": [
+        {
+          "title": "Beat 46",
+          "genre": "Rock",
+          "unique_listeners": 16,
+          "total_interactions": 21
+        },
+        {
+          "title": "Beat 91",
+          "genre": "Electronic",
+          "unique_listeners": 16,
+          "total_interactions": 21
+        },
+        {
+          "title": "Beat 85",
+          "genre": "Electronic",
+          "unique_listeners": 13,
+          "total_interactions": 19
+        },
+        {
+          "title": "Beat 32",
+          "genre": "R&B",
+          "unique_listeners": 17,
+          "total_interactions": 18
+        },
+        {
+          "title": "Beat 11",
+          "genre": "Jazz",
+          "unique_listeners": 14,
+          "total_interactions": 17
+        },
+        {
+          "title": "Beat 98",
+          "genre": "Rock",
+          "unique_listeners": 14,
+          "total_interactions": 17
+        },
+        {
+          "title": "Beat 24",
+          "genre": "Classical",
+          "unique_listeners": 10,
+          "total_interactions": 16
+        },
+        {
+          "title": "Beat 35",
+          "genre": "Jazz",
+          "unique_listeners": 13,
+          "total_interactions": 15
+        },
+        {
+          "title": "Beat 13",
+          "genre": "Hip-Hop",
+          "unique_listeners": 11,
+          "total_interactions": 14
+        },
+        {
+          "title": "Beat 25",
+          "genre": "Hip-Hop",
+          "unique_listeners": 12,
+          "total_interactions": 14
+        }
+      ],
+      "total_beats": 100,
+      "avg_interactions_per_beat": 10.0
+    },
+    "market_insights": {
+      "genre_distribution": {
+        "R&B": 20,
+        "Classical": 17,
+        "Hip-Hop": 17,
+        "Rock": 14,
+        "Jazz": 13,
+        "Electronic": 11,
+        "Pop": 8
+      },
+      "genre_saturation": {
+        "R&B": 0.10471204188481675,
+        "Classical": 0.10625,
+        "Hip-Hop": 0.09883720930232558,
+        "Rock": 0.09090909090909091,
+        "Jazz": 0.10483870967741936,
+        "Electronic": 0.09243697478991597,
+        "Pop": 0.1
+      },
+      "opportunities": [
+        {
+          "genre": "Rock",
+          "opportunity_type": "high_demand_low_supply",
+          "saturation_score": 0.09090909090909091
+        },
+        {
+          "genre": "Electronic",
+          "opportunity_type": "high_demand_low_supply",
+          "saturation_score": 0.09243697478991597
+        },
+        {
+          "genre": "Hip-Hop",
+          "opportunity_type": "high_demand_low_supply",
+          "saturation_score": 0.09883720930232558
+        },
+        {
+          "genre": "Pop",
+          "opportunity_type": "high_demand_low_supply",
+          "saturation_score": 0.1
+        },
+        {
+          "genre": "R&B",
+          "opportunity_type": "high_demand_low_supply",
+          "saturation_score": 0.10471204188481675
+        }
+      ],
+      "trending_genres": {
+        "R&B": 191,
+        "Hip-Hop": 172,
+        "Classical": 160,
+        "Rock": 154,
+        "Jazz": 124
+      }
+    },
+    "recommendations": [
+      {
+        "type": "content_creation",
+        "action": "Create more beats in cluster 2",
+        "reason": "This cluster has 11.8 avg interactions",
+        "priority": "medium"
+      },
+      {
+        "type": "content_creation",
+        "action": "Create more beats in cluster 4",
+        "reason": "This cluster has 11.7 avg interactions",
+        "priority": "medium"
+      },
+      {
+        "type": "content_creation",
+        "action": "Create more beats in cluster 6",
+        "reason": "This cluster has 10.1 avg interactions",
+        "priority": "medium"
+      },
+      {
+        "type": "content_creation",
+        "action": "Create more beats in cluster 7",
+        "reason": "This cluster has 10.3 avg interactions",
+        "priority": "medium"
+      },
+      {
+        "type": "content_creation",
+        "action": "Create more beats in cluster 9",
+        "reason": "This cluster has 11.2 avg interactions",
+        "priority": "medium"
+      },
+      {
+        "type": "user_engagement",
+        "action": "Re-engage 8 inactive users",
+        "reason": "Users with no recent activity detected",
+        "priority": "medium"
+      },
+      {
+        "type": "platform_optimization",
+        "action": "Implement personalized playlists",
+        "reason": "Increase user engagement through better recommendations",
+        "priority": "high"
+      }
+    ]
+  }
+}
